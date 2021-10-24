@@ -13,7 +13,7 @@ public class Bingo {
         Random random = new Random();
 
         int x = random.nextInt(101);
-        System.out.println(x);
+       //System.out.println(x);
 
         int number;
 
