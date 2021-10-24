@@ -61,8 +61,6 @@ public class Array {
             System.out.print(array[i] + "  ");
         }
 
-      //  System.out.println("Для завершения программы введите - exit.");
-
 
     }
 }
