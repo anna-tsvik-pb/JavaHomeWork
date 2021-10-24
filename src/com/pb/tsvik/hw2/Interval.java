@@ -13,7 +13,7 @@ public class Interval {
             if (operand <= 100) {
             System.out.print("Число находится в интервале: [51 - 100]");
         } else {
-                System.out.print("Число находится за рамаками интервалов");
+                System.out.print("Число находится за рамками интервалов");
             }
         } else if (operand >= 36) {
             System.out.print("Число находится в интервале: [36 - 50]");
@@ -22,7 +22,7 @@ public class Interval {
         } else if (operand >= 0) {
             System.out.print("Число находится в интервале: [0 - 14]");
         } else {
-            System.out.print("Число находится за рамаками интервалов");
+            System.out.print("Число находится за рамками интервалов");
         }
 
 
