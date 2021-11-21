@@ -1,12 +1,5 @@
 package com.pb.tsvik.hw9;
 
-//В нем создать методы:
-
-    //    - createNumbersFile - создает текстовый файл "numbers.txt" заполненный случайными целыми числами от 1 до 99. 10 строк и по 10 чисел в каждой строке. Числа разделять пробелами.
-  //      - createOddNumbersFile - читает файл "numbers.txt", и создает на основе него новый файл "odd-numbers.txt" в который входят все числа из "numbers.txt" только все четные заменены на 0.
-  //      В методе main продемонстрировать работу методов createNumbersFile и createOddNumbersFile.
-//      По желанию можно добавить логирование работы программы.
-
 import java.io.BufferedReader;
 import java.io.BufferedWriter;
 import java.io.IOException;
